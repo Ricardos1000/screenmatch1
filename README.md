@@ -1,16 +1,26 @@
 # ScreenMatch
 
-repositório para armazenar Filmes, ano de lançamento, produtora, diretor, Ator, Atriz
-Categoria, curtidas, critícas, 
+Repositório para armazenar Filmes.
 
-## Sub-Título
-- [Connexao Informática](https://www.connexaoinformatica.com.br/projeto/screenmatch)
+## Informações do filme
+- Ano de lançamento
+- Produtora
+- Diretor
+- Atores
+- Atrizes
+- Duração
+- Categoria
+- Curtidas
+- Critícas 
+
+## Link de apresentação
+- [Connexao Informática](https://www.connexaoinformatica.com.br/template/screenmatch)
 - []()
 
-## Tabela
+## Liguagens utilizadas
 
-| XPTo | SPTV | ZXXX|
-|------|------|-----|
+| Java | tomcat | Hibernete | JSF |
+|------|--------|-----------|-----|
 
 ## caixas de código
 
@@ -19,3 +29,6 @@ Git init
 ```
 |status|log|
 |------|---|
+
+## Referência
+- [Connexão Informática](https://connexaoinformatica.com.br)
