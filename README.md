@@ -17,3 +17,5 @@ Categoria, curtidas, critícas,
 ``` 
 Git init
 ```
+|status|log|
+|------|---|
